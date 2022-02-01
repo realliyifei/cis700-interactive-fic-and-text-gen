@@ -8,5 +8,5 @@
 
 ## HW2 - Generating Descriptions
 
-([webiste](https://interactive-fiction-class.org/homeworks/generating-descriptions/generating-descriptions.html)) Fine-tuning GPT-3 of different game modules to generate a text adventure game. For more see [here](./hw2).
+([webiste](https://interactive-fiction-class.org/homeworks/generating-descriptions/generating-descriptions.html)) Fine-tuning GPT-3 of different game modules to generate a text adventure game. For more see [here](./hw2-generating-descriptions).
 
