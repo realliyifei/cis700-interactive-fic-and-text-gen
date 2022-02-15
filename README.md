@@ -4,7 +4,7 @@
 
 ## HW1 - Build a Text-Adventure Game
 
-([website](https://interactive-fiction-class.org/homeworks/text-adventure-game/text-adventure-game.html)) Build the skeleton of a text adventure game and use pixray to visulize the compoenents given descriptions. For more see [here](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game).
+([website](https://interactive-fiction-class.org/homeworks/text-adventure-game/text-adventure-game.html)) Build the skeleton of a text adventure game and use pixray to visulize the compoenents given descriptions. For more see [here](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game) (independent repo).
 
 ## HW2 - Generating Descriptions
 
