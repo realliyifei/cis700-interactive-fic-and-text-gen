@@ -10,3 +10,7 @@
 
 ([webiste](https://interactive-fiction-class.org/homeworks/generating-descriptions/generating-descriptions.html)) Fine-tuning GPT-3 of different game modules to generate a text adventure game. For more see [here](./hw2-generating-descriptions).
 
+## HW3 - Plot Graph Generation
+
+([webiste](https://interactive-fiction-class.org/homeworks/plots/plots.html)) Given stories (several sentences each story) of the same topic, clustering sentences to be nodes and computing node-wise confidence score to determine edges, then use them to plot and improve the plot graph. For more see [here](./hw3-plot-graph-gen).
+
