@@ -12,5 +12,9 @@
 
 ## HW3 - Plot Graph Generation
 
-([webiste](https://interactive-fiction-class.org/homeworks/plots/plots.html)) Given stories (several sentences each story) of the same topic, clustering sentences to be nodes and computing node-wise confidence score to determine edges, then use them to plot and improve the plot graph. For more see [here](./hw3-plot-graph-gen).
+([webiste](https://interactive-fiction-class.org/homeworks/plots/plots.html)) Given stories (several sentences each story) of the same topic, cluster sentences to be nodes and compute node-wise confidence score to determine edges, then use them to plot and improve the plot graph. For more see [here](./hw3-plot-graph-gen).
+
+## HW4 - Convert WikiHow to PDDL
+
+([website](https://interactive-fiction-class.org/homeworks/planning/planning.html)) Given WikiHow article, convert it to planning format via PDDL, which can be automated by GPT-3. For more see [here](./hw4-wikihow-pddl).
 
