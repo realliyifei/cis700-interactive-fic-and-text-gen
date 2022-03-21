@@ -20,5 +20,5 @@
 
 ## HW5 - COMET-ATOMIC Schema
 
-([website](https://interactive-fiction-class.org/homeworks/schemas/schemas.html)) Given sequential sentences of a story, the system can parse the subject and generate the schema by COMET-ATOMIC, a commonsense knowledge graph. For more see [here](./hw5-comet-atomic-schema).
+([website](https://interactive-fiction-class.org/homeworks/schemas/schemas.html)) Given sequential sentences of a story, the system can parse the entities and generate the schema by COMET-ATOMIC, a commonsense knowledge graph. For more see [here](./hw5-comet-atomic-schema).
 
