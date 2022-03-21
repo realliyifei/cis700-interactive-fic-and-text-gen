@@ -18,3 +18,7 @@
 
 ([website](https://interactive-fiction-class.org/homeworks/planning/planning.html)) Given WikiHow article, convert it to planning format via PDDL, which can be automated by GPT-3. For more see [here](./hw4-wikihow-pddl).
 
+## HW5 - COMET-ATOMIC Schema
+
+([website](https://interactive-fiction-class.org/homeworks/schemas/schemas.html)) Given sequential sentences of a story, the system can parse the subject and generate the schema by COMET-ATOMIC, a commonsense knowledge graph. For more see [here](./hw5-comet-atomic-schema).
+
