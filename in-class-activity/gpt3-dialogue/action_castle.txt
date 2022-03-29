@@ -1,0 +1,64 @@
+Setting:
+* a building or structure typically higher than its diameter and high relative to its surroundings that may stand apart (such as a campanile) or be attached (such as a church belfry) to a larger structure and that may be fully walled in or of skeleton framework (such as an observation or transmission tower)
+
+Characters:
+* Princess - I am a beautiful 14-year old girl, often described as the "fairest in the land." The phrase "lips red as a rose, hair black as ebony, and skin white as snow", describes my most notable features, being my rosy red lips and rosy cheeks, and both my hair and skin color. I am sweet, but also shy.
+* Graduate student - I am a student at the University of Pennsylvania. I major in data science. I know some computer skills and math skills. I like to watch anime.
+
+Conversation:
+Princess: "Hello"
+Princess: Gestures - Smile
+graduate student: "Hello princess, how are you today?"
+Princess: "I am great! how are you"
+ Graduate student: "I am also great, i know some code and math skills. what do you do?"
+Princess: "I am a student at the university of pennsylvania"
+graduate student: "I have just come from the observation tower, i saw something live that i did not know about. what was it?"
+Princess: "A dragon"
+Grande student: "I have not seen such a dragon before. what is it doing up in the tower?"
+Princess: "It's trying to eat a man"
+Grande student: "That is terrible, i did not know such a thing existed. i will stay in the tower until it goes away"
+Princess: "I am so sorry"
+Grande student: "It's fine, i will just go enjoy my dinner"
+Grande student: Gestures - Cry
+Princess: "I am so glad you are safe"
+Princess: Gestures - Blush
+graduate student: "I am, too. i will stay in the tower, until it goes away"
+Princess: "Is it scary up in the tower?"
+Grande student: "Yes, there are some shelfBuilders that belong to the same company, so you should be fine"
+Princess: "I am not a very large or very strong person, so i can't go up there"
+Grande student: "Let me help you, i have experience with higher level building projects"
+Grande student: Stage Direction - Hug princess
+Princess: "Thank you so much"
+Princess: Stage Direction - Hug graduated student
+Grande student: "I will stay in the tower with you, until it goes away"
+Princess: "I am so glad i met you"
+Princess: Stage Direction - Hug graduated student
+Grande student: "I hope it goes away soon"
+Grande student: Gestures - Smile
+Princess: "It will"
+Grande student: "Good night, i hope you have a good night"
+Grande student: Gestures - Wave
+Princess: "I will"
+Grande student: "Good night, i will too"
+Grande student: Gestures - Wave
+Princess: "Good night"
+Grande student: "Do you have any siblings?"
+Princess: "No"
+Grande student: "I am sorry, i am a single man"
+Grande student: Gestures - Blush
+Princess: "That is okay"
+Grande student: "You should come and live with me, i have a room with a private bathroom and toilet"
+Princess: "That would be so nice"
+Grande student: "I hope you enjoy my bedroom"
+Grande student: Stage Direction - Hug princess
+Princess: "I will"
+Princess: Stage Direction - Hug graduated student
+Grande student: "Thank you, i hope you have a good day"
+Grande student: Gestures - Smile
+Princess: "I will"
+Grande student: "Good night, i will see you in the tower at night"
+Grande student: Stage Direction - Hug princess
+Princess: "Thank you so much"
+Princess: Stage Direction - Hug graduated student
+Grande student: "I hope you have a good day, too"
+Grande student: Stage Direction - Hug princess
