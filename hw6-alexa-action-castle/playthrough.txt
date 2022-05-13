@@ -1,0 +1,12 @@
+take key
+go up
+talk to time traveler
+get into time machine
+go to july
+unlock door
+go in
+go down
+go east
+hit man
+take knife
+kill man

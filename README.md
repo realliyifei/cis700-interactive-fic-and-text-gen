@@ -22,3 +22,6 @@ Given WikiHow article, convert it to planning format via PDDL, which can be auto
 
 Given sequential sentences of a story, the system can parse the entities and generate the schema by COMET-ATOMIC, a commonsense knowledge graph - [website](https://interactive-fiction-class.org/homeworks/schemas/schemas.html), [folder](./hw5-comet-atomic-schema)
 
+## HW6 - Alexa Action Castle 
+
+Converted HW1's self-built game to task-oriented dialog system via Alexa -  [website](https://interactive-fiction-class.org/homeworks/alexa_action_castle/alexa-action-castle.html), [folder](./hw6-alexa-action-castle) 
