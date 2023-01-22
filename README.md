@@ -1,6 +1,6 @@
 # CIS 700-001 Interactive Fiction and Text Generation
 
-[Course Website](https://interactive-fiction-class.org/index.html); by Chris Callison-Burch and Lara Martin
+[Course Website](https://interactive-fiction-class.org/index.html); by Chris Callison-Burch and Lara Martin | [Course Project](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation)
 
 ## HW1 - Build a Text-Adventure Game
 
