@@ -8,7 +8,7 @@ Build the skeleton of a text adventure game and use pixray to visulize the compo
 
 ## HW2 - Generating Descriptions
 
-Fine-tuning GPT-3 of different game modules to enerate a text adventure game - [webiste](https://interactive-fiction-class.org/homeworks/generating-descriptions/generating-descriptions.html), [folder](./hw2-generating-descriptions)
+Fine-tuning GPT-3 of different game modules to generate a text adventure game - [webiste](https://interactive-fiction-class.org/homeworks/generating-descriptions/generating-descriptions.html), [folder](./hw2-generating-descriptions)
 
 ## HW3 - Plot Graph Generation
 
